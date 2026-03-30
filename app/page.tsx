@@ -3,7 +3,7 @@ export default function Home() {
     <div className="min-h-screen bg-white flex items-center justify-center px-4">
       <div className="text-center max-w-xl mx-auto">
         <p className="text-xs font-semibold tracking-[0.3em] uppercase text-blue-400 mb-6">
-          Joggliderss
+          Joggliders
         </p>
 
         <h1 className="text-6xl font-light text-slate-900 mb-6 tracking-tight">
