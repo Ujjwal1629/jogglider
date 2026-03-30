@@ -3,7 +3,7 @@ export default function Home() {
     <div className="min-h-screen bg-white flex items-center justify-center px-4">
       <div className="text-center max-w-xl mx-auto">
         <p className="text-xs font-semibold tracking-[0.3em] uppercase text-blue-400 mb-6">
-          Jogglider
+          Joggliderss
         </p>
 
         <h1 className="text-6xl font-light text-slate-900 mb-6 tracking-tight">
@@ -20,7 +20,7 @@ export default function Home() {
         <p className="text-2xl font-semibold text-blue-600">April 15, 2026</p>
 
         <p className="mt-20 text-slate-300 text-xs">
-          &copy; {new Date().getFullYear()} Jogglider
+          &copy; {new Date().getFullYear()} Joggliders
         </p>
       </div>
     </div>
