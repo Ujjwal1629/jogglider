@@ -269,9 +269,9 @@ export default function WorkPage() {
         </section>
 
         {/* CTA */}
-        <section className="bg-cyan-600 py-10 sm:py-14">
+        <section className="bg-cyan-600 py-6 sm:py-8">
           <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center">
-            <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">Ready to work abroad?</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-white mb-3">Ready to work abroad?</h2>
             <p className="text-cyan-100 text-sm mb-7">Speak to our work visa experts and get a free assessment of your profile today.</p>
             <button onClick={() => setShowForm(true)} className="bg-white text-cyan-700 font-bold px-10 py-3.5 rounded-xl hover:bg-cyan-50 transition-colors text-sm shadow-lg">
               Get Free Counselling →

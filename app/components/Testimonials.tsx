@@ -1,6 +1,6 @@
 const testimonials = [
   {
-    quote: "Joggliders made our Canada PR process completely stress-free. Their team handled everything and kept us updated throughout.",
+    quote: "JOGgliders made our Canada PR process completely stress-free. Their team handled everything and kept us updated throughout.",
     name: "Ravi M.",
     location: "Bangalore, India",
     initials: "RM",
@@ -14,7 +14,7 @@ const testimonials = [
     visa: "UK Student Visa",
   },
   {
-    quote: "Professional, transparent, and fast. I highly recommend Joggliders to anyone navigating the work visa process abroad.",
+    quote: "Professional, transparent, and fast. I highly recommend JOGgliders to anyone navigating the work visa process abroad.",
     name: "Omar K.",
     location: "Dubai, UAE",
     initials: "OK",
@@ -29,7 +29,7 @@ export default function Testimonials() {
         <div className="text-center mb-10 sm:mb-14">
           <p className="text-xs font-semibold tracking-widest uppercase text-blue-500 mb-3">Testimonials</p>
           <h2 className="text-2xl sm:text-4xl font-bold text-slate-900">Trusted by people worldwide</h2>
-          <p className="text-slate-500 mt-4">Real stories from clients who achieved their immigration goals with Joggliders.</p>
+          <p className="text-slate-500 mt-4">Real stories from clients who achieved their immigration goals with JOGgliders.</p>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-5 sm:gap-6">

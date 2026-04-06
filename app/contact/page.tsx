@@ -66,7 +66,7 @@ export default function ContactPage() {
       `Service: ${form.interest || "Not specified"}\n` +
       (form.message ? `Message: ${form.message}\n` : "") +
       `\n━━━━━━━━━━━━━━━━━━━━\n` +
-      `Received via joggliders.com`;
+      `Received via JOGgliders.com`;
 
     // Send email silently in background
     sendEnquiryEmail({ ...form, destination: "Not specified" }).catch(() => {});

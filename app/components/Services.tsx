@@ -63,7 +63,7 @@ export default function Services() {
           <p className="text-xs font-semibold tracking-widest uppercase text-blue-500 mb-3">Our Services</p>
           <h2 className="text-2xl sm:text-4xl font-bold text-slate-900">Everything you need to move abroad</h2>
           <p className="text-slate-500 mt-4 max-w-xl mx-auto">
-            From your first consultation to visa approval, Joggliders supports you at every step of the journey.
+            From your first consultation to visa approval, JOGgliders supports you at every step of the journey.
           </p>
         </div>
 

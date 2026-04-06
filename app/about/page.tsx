@@ -111,7 +111,7 @@ export default function AboutPage() {
       <main className="pt-[60px] sm:pt-[108px] bg-white">
 
         {/* Hero */}
-        <div className="bg-blue-600 py-14">
+        <div className="bg-blue-600 py-6 sm:py-8">
           <div className="max-w-7xl mx-auto px-6 text-center">
             <p className="text-blue-200 text-sm font-semibold uppercase tracking-widest mb-2">About Us</p>
             <h1 className="text-3xl md:text-4xl font-bold text-white">
@@ -266,9 +266,9 @@ export default function AboutPage() {
         </section>
 
         {/* CTA */}
-        <section className="bg-blue-600 py-14">
+        <section className="bg-blue-600 py-6 sm:py-8">
           <div className="max-w-3xl mx-auto px-6 text-center">
-            <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">Ready to Start Your Journey?</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-white mb-3">Ready to Start Your Journey?</h2>
             <p className="text-blue-100 text-sm mb-7">
               Talk to one of our experts today — no obligation, just honest advice.
             </p>

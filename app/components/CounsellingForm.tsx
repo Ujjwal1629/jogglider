@@ -32,7 +32,7 @@ export default function CounsellingForm({ onClose }: { onClose: () => void }) {
       `Service:     ${form.interest}\n` +
       `Destination: ${form.destination}\n\n` +
       `━━━━━━━━━━━━━━━━━━━━\n` +
-      `Received via joggliders.com`;
+      `Received via JOGgliders.com`;
 
     // Send email silently in background
     sendEnquiryEmail({ ...form }).catch(() => {});

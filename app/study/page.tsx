@@ -234,9 +234,9 @@ export default function StudyPage() {
         </section>
 
         {/* CTA */}
-        <section className="bg-amber-500 py-10 sm:py-14">
+        <section className="bg-amber-500 py-6 sm:py-8">
           <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center">
-            <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">Ready to study abroad?</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-white mb-3">Ready to study abroad?</h2>
             <p className="text-amber-100 text-sm mb-7">Get a free profile evaluation and personalised university recommendations from our experts.</p>
             <button onClick={() => setShowForm(true)} className="bg-white text-amber-600 font-bold px-6 sm:px-10 py-3 sm:py-3.5 rounded-xl hover:bg-amber-50 transition-colors text-sm shadow-lg">
               Get Free Counselling →

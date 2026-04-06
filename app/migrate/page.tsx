@@ -305,9 +305,9 @@ export default function MigratePage() {
         </section>
 
         {/* CTA */}
-        <section className="bg-violet-700 py-10 sm:py-14">
+        <section className="bg-violet-700 py-6 sm:py-8">
           <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center">
-            <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">Start your migration journey today</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-white mb-3">Start your migration journey today</h2>
             <p className="text-violet-200 text-sm mb-7">Talk to a certified immigration consultant — free, no obligation.</p>
             <button onClick={() => setShowForm(true)} className="bg-white text-violet-700 font-bold px-10 py-3.5 rounded-xl hover:bg-violet-50 transition-colors text-sm shadow-lg">
               Get Free Counselling →

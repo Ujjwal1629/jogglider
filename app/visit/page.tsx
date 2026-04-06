@@ -268,9 +268,9 @@ export default function VisitPage() {
         </section>
 
         {/* CTA */}
-        <section className="bg-green-600 py-10 sm:py-14">
+        <section className="bg-green-600 py-6 sm:py-8">
           <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center">
-            <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">Planning a trip abroad?</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-white mb-3">Planning a trip abroad?</h2>
             <p className="text-green-100 text-sm mb-7">Let our visa experts handle the paperwork so you can focus on your journey.</p>
             <button onClick={() => setShowForm(true)} className="bg-white text-green-700 font-bold px-10 py-3.5 rounded-xl hover:bg-green-50 transition-colors text-sm shadow-lg">
               Get Free Counselling →
